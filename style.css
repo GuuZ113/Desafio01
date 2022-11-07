@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    user-select: none;
     font-family: 'Lexend Deca', sans-serif;
 
 }
@@ -15,7 +14,7 @@
     --gray: #717171;
     --gray-dark: #1a202c;
     font-family: 'Inter', sans-serif;
-  font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
   }
 
   body {
